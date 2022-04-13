@@ -3,7 +3,7 @@
 [![alt-text](https://img.shields.io/badge/-Portfolio-red)](https://share.streamlit.io/jonathjd/webapp/main/main.py)
 
 ### About me :notebook:
-I enjoy working with all things data. From generating ML models to classic Liner Regression, I'm your guy!
+I enjoy working with all things data. From generating ML models to classic Linear Regression, I'm your guy!
 
 ---
 ### Languages and Tools :hammer:
@@ -13,6 +13,7 @@ I enjoy working with all things data. From generating ML models to classic Liner
 - VS Code
 - Google Colab
 - Tableau
+- Java
 
 ---
 ### Currently Weekly Workflow
