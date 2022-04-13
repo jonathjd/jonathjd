@@ -1,5 +1,4 @@
-# Hi there 👋, My name is Jon :sunglasses:
-
+### Hi there 👋, My name is Jon :sunglasses:
 ---
 [![alt-text](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dickinson17/)
 [![alt-text](https://img.shields.io/badge/-Portfolio-red)](https://share.streamlit.io/jonathjd/webapp/main/main.py)
