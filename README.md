@@ -1,7 +1,7 @@
 ## Hi there 👋, My name is Jon :sunglasses:
 [![alt-text](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dickinson17/)
 [![alt-text](https://img.shields.io/badge/-Portfolio-red)](https://share.streamlit.io/jonathjd/webapp/main/main.py)
----
+
 ### About me :notebook:
 I enjoy working with all things data. From generating ML models to classic Liner Regression, I'm your guy!
 
