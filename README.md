@@ -3,25 +3,23 @@
 [![alt-text](https://img.shields.io/badge/-Portfolio-red)](https://share.streamlit.io/jonathjd/webapp/main/main.py)
 
 ### About me :notebook:
-I enjoy working with all things data. From generating ML models to classic Linear Regression, I'm your guy!
+I enjoy working with all things data. From generating ML models to classic Linear Regression, I'm your guy! Don't hesitate to reach out about potential job opportunities, collaborations, or just to talk shop :smirk_cat:
 
 ---
 ### Languages and Tools :hammer:
 - Python
-- Git
 - SQL
 - VS Code
-- Google Colab
 - Tableau
 - Java
 
 ---
-### Currently Weekly Workflow
+### Currently Weekly Workflow *(Coming soon!)*
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
-### Fun Facts
+### Fun Facts :white_check_mark:
 - Born and raised in Southern California :palm_tree:
 - UC Irvine Alumn :ant:
 - Avid reader :blue_book:
