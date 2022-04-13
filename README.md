@@ -1,7 +1,8 @@
-# Hi there 👋, My name is Jon :sunglasses: -> [Website](https://share.streamlit.io/jonathjd/webapp/main/main.py)
+# Hi there 👋, My name is Jon :sunglasses:
 
 ---
-[![alt-text](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/dickinson17/)
+[![alt-text](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dickinson17/)
+[![alt-text](https://img.shields.io/badge/-Portfolio-red)](https://share.streamlit.io/jonathjd/webapp/main/main.py)
 
 <!--
 **jonathjd/jonathjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
