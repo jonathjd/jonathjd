@@ -9,9 +9,13 @@ I enjoy working with all things data. From generating ML models to classic Linea
 ### Languages and Tools :hammer:
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Languages and Tools :hammer:</summary>
 <br>
-This is how you dropdown.
+- Python
+- SQL
+- VS Code
+- Tableau
+- Java
 </details>
 
 - Python
