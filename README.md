@@ -21,21 +21,33 @@ I enjoy working with all things data. From generating ML models to classic Linea
 
 ---
 ### Currently Weekly Workflow
-
-<details>
-<summary>:computer:<summary>
-  
-  <img src="https://wakatime.com/share/@Jonathjd/762c1509-f178-400a-ad81-5090078195f6.svg" height="300">
-</details>
+<img src="https://wakatime.com/share/@Jonathjd/762c1509-f178-400a-ad81-5090078195f6.svg" height="300">
     
 ---
 ### Fun Facts :white_check_mark:
-- Born and raised in Southern California :palm_tree:
-- UC Irvine Alumn :ant:
-- Avid reader :blue_book:
-- Coffee drinker :coffee:
-- Question asker :thought_balloon:
-- Problem Solver :bulb:
+
+<details>
+<summery>:white_check_mark:<summary>
+  
++ Born and raised in Southern California :palm_tree:
++ UC Irvine Alumn :ant:
++ Avid reader :blue_book:
++ Coffee drinker :coffee:
++ Question asker :thought_balloon:
++ Problem Solver :bulb:
+  </details>
+</details>
+
+<details>
+<summary>:hammer:</summary>
+  
++ Python
++ SQL
++ VS Code
++ Tableau
++ Java
+   </details>
+</details>
 
 <!--
 **jonathjd/jonathjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
