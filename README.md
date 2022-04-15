@@ -16,7 +16,7 @@ I enjoy working with all things data. From generating ML models to classic Linea
 ---
 ### Currently Weekly Workflow *(Coming soon!)*
 
-<figure><embed src="https://wakatime.com/share/@Jonathjd/30c691ff-34ed-4886-98a0-0af39a3af07f.svg"></embed></figure>
+[!alt-text]("https://wakatime.com/share/@Jonathjd/30c691ff-34ed-4886-98a0-0af39a3af07f.svg")
 
 ---
 ### Fun Facts :white_check_mark:
