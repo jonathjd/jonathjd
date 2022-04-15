@@ -18,6 +18,18 @@ I enjoy working with all things data. From generating ML models to classic Linea
 - Java
 </details>
 
+<details>
+<summary>Languages and Tools :hammer:</summary>
+  
++ <details>
+    - Python
+    - SQL
+    - VS Code
+    - Tableau
+    - Java
+   </details>
+</details>
+
 - Python
 - SQL
 - VS Code
