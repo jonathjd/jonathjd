@@ -28,13 +28,13 @@ I enjoy working with all things data. From generating ML models to classic Linea
 
 <details>
 <summary>:white_check_mark:<summary>
-<br>
-+ Born and raised in Southern California :palm_tree:
-+ UC Irvine Alumn :ant:
-+ Avid reader :blue_book:
-+ Coffee drinker :coffee:
-+ Question asker :thought_balloon:
-+ Problem Solver :bulb:
+  
+  + Born and raised in Southern California :palm_tree:
+  + UC Irvine Alumn :ant:
+  + Avid reader :blue_book:
+  + Coffee drinker :coffee:
+  + Question asker :thought_balloon:
+  + Problem Solver :bulb:
    </details>
 </details>
 
