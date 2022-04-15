@@ -7,6 +7,13 @@ I enjoy working with all things data. From generating ML models to classic Linea
 
 ---
 ### Languages and Tools :hammer:
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 - Python
 - SQL
 - VS Code
