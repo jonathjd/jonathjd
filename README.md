@@ -28,7 +28,7 @@ I enjoy working with all things data. From generating ML models to classic Linea
 
 <details>
 <summary>:white_check_mark:<summary>
-  
+<br>
 + Born and raised in Southern California :palm_tree:
 + UC Irvine Alumn :ant:
 + Avid reader :blue_book:
