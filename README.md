@@ -34,7 +34,7 @@ I enjoy working with all things data. From generating ML models to classic Linea
 + Coffee drinker :coffee:
 + Question asker :thought_balloon:
 + Problem Solver :bulb:
-  </details>
+   </details>
 </details>
 
 <!--
