@@ -3,7 +3,7 @@
 [![alt-text](https://img.shields.io/badge/-Portfolio-red)](https://share.streamlit.io/jonathjd/webapp/main/main.py)
 
 ### About me :notebook:
-I enjoy working with all things data. From generating ML models to classic Linear Regression, I'm your guy! Don't hesitate to reach out about potential job opportunities, collaborations, or just to talk shop :smirk_cat:
+I enjoy working with all things data, as well as the full development life-cycle for web applications. From generating ML models to classic Linear Regression, I'm your guy! Don't hesitate to reach out about potential job opportunities, collaborations, or just to talk shop :smirk_cat:
 
 ---
 ### Languages and Tools :hammer:
