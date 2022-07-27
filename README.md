@@ -14,8 +14,8 @@ I enjoy working with all things data, as well as the full development life-cycle
 + Python
 + SQL
 + VS Code
-+ Tableau
-+ Java
++ HTML
++ CSS
    </details>
 </details>
 
