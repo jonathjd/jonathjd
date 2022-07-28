@@ -38,15 +38,6 @@ I am an aspiring Software Engineer with a background in the analysis of high thr
 <a href="https://github.com/jonathjd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathjd&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <summary>:white_check_mark:</summary>
-  
-+ Born and raised in Southern California :palm_tree:
-+ UC Irvine Alumn :ant:
-+ Avid reader :blue_book:
-+ Coffee drinker :coffee:
-+ Question asker :thought_balloon:
-+ Problem Solver :bulb:
-   </details>
-</details>
 
 <!--
 **jonathjd/jonathjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
