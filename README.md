@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan Dickinson
 ==========================================================================================================================================
 
-Aspiring Software Engineer
+Bioinformatician
 --------------------------
 
-I am an aspiring Software Engineer with a background in the analysis of high throughput omics data using Python. Currently, I am learning the front-end technologies HTML/CSS/Javascript to build responsive web applications.
+Currently, I am a Bioinformatics Analyst working on analyzing high-throughput proteomics data by day, and I lecture courses in excercise science by night. My formal education is in biology and human physiology, but I enjoy building web applications and learning math as well. Feel free to contact me to collaborate on a project or with potential business opportunities.
 
 * 🌍  I'm based in Washington State
 * ✉️  You can contact me at [jon.dickinson17@gmail.com](mailto:jon.dickinson17@gmail.com)
