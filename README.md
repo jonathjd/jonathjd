@@ -34,5 +34,3 @@ Currently, I am a Bioinformatics Analyst working on analyzing high-throughput pr
 <a href="http://www.github.com/jonathjd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathjd&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/jonathjd"><img src="https://activity-graph.herokuapp.com/graph?username=jonathjd&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<figure><embed src="https://wakatime.com/share/@Jonathjd/d3386ce7-fde3-4802-a21a-16753bcdcc33.svg"></embed></figure>
