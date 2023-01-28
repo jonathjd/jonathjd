@@ -32,7 +32,3 @@ Currently, I am a Bioinformatics Analyst working on analyzing high-throughput pr
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jonathjd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathjd&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-![alt-text](https://github-readme-stats.vercel.app/api/top-langs/?username={jonathjd}&theme=blue-green)
