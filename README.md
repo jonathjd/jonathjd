@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan Dickinson
 ==========================================================================================================================================
 
-Bioinformatician
+Software Engineer
 --------------------------
 
 Currently, I am a Data Scientist working on analyzing high-throughput proteomics data by day, and I lecture courses in excercise science by night. My formal education is in biology and human physiology, but I enjoy building web applications and learning math as well. Feel free to contact me to collaborate on a project or with potential business opportunities.
