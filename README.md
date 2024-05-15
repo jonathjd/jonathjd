@@ -4,12 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------------------
 
-Currently, I am a Data Scientist working on analyzing high-throughput proteomics data by day, and I lecture courses in excercise science by night. My formal education is in biology and human physiology, but I enjoy building web applications and learning math as well. Feel free to contact me to collaborate on a project or with potential business opportunities.
-
-* 🌍  I'm based in Washington State
-* ✉️  You can contact me at [jon.dickinson17@gmail.com](mailto:jon.dickinson17@gmail.com)
-* 🧠  I'm learning Javascript and am looking forward to learning React
-* ⚡  I'm open to connecting with all individuals in this field!
+Under construction 🔨
 
 
 ### Socials
